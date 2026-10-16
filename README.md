@@ -1,6 +1,5 @@
 # Open-Source-Internationalisierung: So verbessert dieses Textanalyse-Tool die Lesbarkeit deutscher technischer Dokumentationen
 
-
 In der heutigen Open-Source-Welt geht die Internationalisierung (i18n) weit über die reine Übersetzung von Benutzeroberflächen hinaus. Für Projekte, die sich an Entwickler weltweit richten, bestimmt die Qualität von **technischen Dokumentationen, README-Dateien, API-Beschreibungen und Release Notes** oft direkt über die Akzeptanz und Community-Aktivität.
 
 Wenn dein Projekt jedoch den deutschsprachigen Raum erreicht, stößt man häufig auf ein hartnäckiges Problem: **die natürlichen Schachtelsätze und Komposita der deutschen Sprache.**
